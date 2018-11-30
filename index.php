@@ -10,14 +10,14 @@
 			<div class="col-md-3">
 				<center>
 					<a href="good-sds.php">
-						<img src="img/megaphone.PNG" class="img-cricle good-img" width="200" height="200">
+						<img src="img/megaphone.png" class="img-cricle good-img" width="200" height="200">
 						<p class="promotion-mainpage">Good Promotion</p>
 					</a>
 				</center>
 			</div>
 			<div class="col-md-3">
 				<center>
-					<a href="bad-sds.php"><img src="img/skull.PNG" class="img-cricle good-img" width="200" height="200">
+					<a href="bad-sds.php"><img src="img/danger.png" class="img-cricle good-img" width="200" height="200">
 					<p class="promotion-mainpage">Bad Promotion</p></a>
 				</center>
 			</div>

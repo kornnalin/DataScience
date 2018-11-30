@@ -8,14 +8,14 @@
  				<div class="sidenav w3-leftbar">
  					<h2 class="tab"> #การแสดงผล</h2>
  					<hr>
- 					<a href="mainpag-sds.php"> 
- 						<img src="img/house (1).PNG" class="img-cricle house-img" width="40" height="40"> Home
+ 					<a href="index.php"> 
+ 						<img src="img/house.png" class="img-cricle house-img" width="40" height="40"> Home
  					</a>
 	  				<a href="good-sds.php">
-	  					<img src="img/megaphone.PNG" class="img-cricle good-img" width="40" height="40"> Good Promotion
+	  					<img src="img/megaphone.png" class="img-cricle good-img" width="40" height="40"> Good Promotion
 	  				</a>
 	  				<a href="bad-sds.php">
-	  					<img src="img/skull.PNG" class="img-cricle bad-img" width="40" height="40"> Bad Promotion
+	  					<img src="img/skull.png" class="img-cricle bad-img" width="40" height="40"> Bad Promotion
 	  				</a>
  				</div>
  				

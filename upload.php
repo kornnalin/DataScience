@@ -22,13 +22,13 @@
 			<div class="col-md-3"></div>
 			<div class="col-md-3">
 				<center>
-					<a href="good-sds.php"><img src="img/megaphone.PNG" class="img-cricle good-img" width="160" height="160">
+					<a href="good-sds.php"><img src="img/megaphone.png" class="img-cricle good-img" width="160" height="160">
 					<p class="promotion">Good Promotion</p></a>
 				</center>
 			</div>
 			<div class="col-md-3">
 				<center>
-					<a href="bad-sds.php"><img src="img/skull.PNG" class="img-cricle good-img" width="160" height="160">
+					<a href="bad-sds.php"><img src="img/danger.png" class="img-cricle good-img" width="160" height="160">
 					<p class="promotion">Bad Promotion</p></a>
 				</center>
 			</div>
